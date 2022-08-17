@@ -1,5 +1,5 @@
 {
-    "name": "JAMPSRavencoinPool",
+    "name": "MiningCryptoLive-RavencoinPool",
     "version": "1.0.0",
     "description": "An extremely efficient, highly scalable, Ravencoin mining pool",
     "keywords": [
@@ -11,12 +11,12 @@
         "Ravencoin",
         "KawPoW"
     ],
-    "homepage": "https://github.com/mardock2009/Ravencoin-Pool",
+    "homepage": "https://github.com/MiningCryptLive/Ravencoin-Pool",
     "bugs": {
-        "url": "https://github.com/mardock2009/Ravencoin-Pool/"
+        "url": "https://github.com/MiningCryptoLive/Ravencoin-Pool/"
     },
     "license": "GPL-3.0",
-    "author": "JAMPS",
+    "author": "MCL",
     "contributors": [
         "Dirty Harry"
     ],
@@ -26,7 +26,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/mardock2009/Ravencoin-Pool"
+        "url": "https://github.com/MiningCryptoLive/Ravencoin-Pool-Working"
     },
     "devDependencies": {
         "require-so-slow": "^2.0.5"
